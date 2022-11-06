@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
@@ -11,3 +12,7 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+=======
+# hardhat-fund-me
+Its a web 3 fundraiser proeject
+>>>>>>> aa3333f43430903bb6a77d61749b5800caa39f70
